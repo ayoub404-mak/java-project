@@ -1,5 +1,7 @@
 package app;
 
+
+
 import model.Contenu;
 import model.Cours;
 import model.Etudiant;
@@ -28,5 +30,7 @@ public class mainEtudent {
         courJAVA.calc_progress(ali);
         courJAVA.updat_progress(ali);
         courJAVA.afficher_progress_conten(ali);
+
+        //FUCK THE POLICE
     }
 }
